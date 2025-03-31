@@ -1,0 +1,71 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Question Paper - Class VIII</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+        }
+        h1, h2 {
+            text-align: center;
+            text-decoration: underline;
+        }
+        .instructions {
+            font-weight: bold;
+        }
+        .question {
+            margin: 20px 0;
+        }
+        #Paper{
+            text-align: center;
+        }
+        #paper{
+            text-align: center;
+            text-decoration: line-through;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>MODEL QUESTION PAPER FOR SUMMATIVE TEST - II</h1>
+    <h2>MATHEMATICS<br>CLASS-VIII</h2>
+
+    <p><strong>Maximum Marks: 20</strong></p>
+
+    <h3>General Instructions:</h3>
+    <ul class="instructions">
+        <li>All questions are compulsory</li>
+        <li>The question paper consists of 7 questions divided into 2 sections A and B</li>
+        <li>Section A contains 4 questions of 2 marks each</li>
+        <li>Section B contains 3 questions of 4 marks each</li>
+    </ul>
+
+    <h3 id="Paper">SECTION A</h3>
+
+    <div class="question">
+        <p><strong>Q1:</strong> What will be the product of (a<sup>2</sup>) × (2a<sup>22</sup>) × (4a<sup>26</sup>)?</p>
+        <ul>
+            <li>(a) 8a<sup>46</sup></li>
+            <li>(b) 8a<sup>48</sup></li>
+            <li>(c) 6a<sup>50</sup></li>
+            <li>(d) 8a<sup>50</sup></li>
+        </ul>
+    </div>
+
+    <div class="question">
+        <p><strong>Q2:</strong> Water is oxidized to oxygen by</p>
+        <ul>
+            <li>(a) H<sub>2</sub>O<sub>2</sub></li>
+            <li>(b) KMnO<sub>4</sub></li>
+            <li>(c) ClO<sub>2</sub></li>
+            <li>(d) Fluorine</li>
+        </ul>
+    </div>
+
+    <p id="paper"><strong>Cutting is Not Allowed.</strong></p><p><strong> Select Only One Option</strong></p>
+
+
+
+</body></html>
