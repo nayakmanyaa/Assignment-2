@@ -1,0 +1,69 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Web Page</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+        .section {
+            margin: 20px 0;
+            padding: 10px;
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        @media (max-width: 600px) {
+            .container {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Personal Web Page</h1>
+        <div class="section about">
+            <h2>About Me</h2>
+            <p>Hi, Myself Manya Nayak. Welcome to my personal web page!</p>
+           <img src="manya.jpeg" width="50%" height="50%">
+        </div>
+        <div class="section skills">
+            <h2>Skills</h2>
+            <p>HTML, CSS, JavaScript, SQL, React, Nodejs, Express, MongoDB </p>
+        </div>
+           <div class="Projects">
+            <h2>Projects</h2>
+                           <p>Blood Bank</p>
+                  <p>CryptoTracker</p>
+                              </div>
+
+        <div class="section contact">
+            <h2>Contact</h2>
+            <p>Phone Number: 9301678982</p>
+            <p>Email: <a href="manyanayak07@gmail.com">manyanayak07@gmail.com</a></p>
+        </div>
+    </div>
+
+
+</body></html>
